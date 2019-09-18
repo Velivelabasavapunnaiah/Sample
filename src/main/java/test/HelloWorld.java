@@ -8,6 +8,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("PLEASE Enter Your Name Here");
 		Scanner sc= new Scanner(System.in);
+		System.out.println("This is sample application");
 		String name= sc.nextLine();
       System.out.println("Hello World! :"+name);
       System.out.println("This is Basava");
